@@ -1,0 +1,6 @@
+{
+    "heartbeat": true,
+    "heartbeatHost": "http://ci-api.example.com:1234/heartbeat",
+    "heartbeatToken": "super secret key",
+    "heartbeatServiceHost": "staging-2-stream.com:443"
+}
